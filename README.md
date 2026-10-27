@@ -1,4 +1,4 @@
-# Perfi
+# Finance Assistance 
 ### Open-source personal finance management app
 
 [![GooglePlay](https://canmorealberta.com/dist/img/google_appstore_256x256.png)](https://play.google.com/store/apps/details?id=com.apikodev.perfi&hl=uz)
